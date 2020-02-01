@@ -1,0 +1,22 @@
+h1 {
+  text-decoration: underline;
+  color: green;
+}
+
+h2 {
+  text-decoration: underline;
+  color: blue;
+}
+
+h3 {
+  color: blue;
+}
+
+body {
+color:black;
+font-weight:bold;
+font-family:Calibri;
+background-color:white;
+background-image:url(papierpeint.png);
+margin:8;
+}
