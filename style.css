@@ -4,8 +4,7 @@ h1 {
 }
 
 h2 {
-  text-decoration: underline;
-  color: blue;
+  color: black;
 }
 
 h3 {
@@ -16,7 +15,7 @@ body {
 color:black;
 font-weight:bold;
 font-family:Calibri;
-background-color:white;
-background-image:url(papierpeint.png);
+background:url(papierpeint.png) repeat left top;
+background:url(Page.png) no-repeat center fixed;
 margin:8;
 }
