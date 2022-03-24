@@ -1,2 +1,2 @@
-# sonikast.github.io
+# sonicthehedgehogquest
 Just a test
