@@ -73,7 +73,7 @@ figure.right{
 
 .nav-item
 {
-	background-image: url('background/side.png');
+	background-image: url('../background/side.png');
 	background-position: top right;
 	background-repeat: repeat-y;
 	text-shadow: 4px 4px black;
